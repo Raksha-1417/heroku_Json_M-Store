@@ -1,0 +1,17 @@
+{
+  "name": "m-store_heroku-deploy",
+  "version": "1.0.0",
+  "description": "m-store_heroku-deployment",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run server"
+  },
+  "keywords": [
+    "json-server-m-store-deploy"
+  ],
+  "author": "heroku-json",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
